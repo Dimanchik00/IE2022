@@ -58,3 +58,6 @@ https://vc.ru/hr/435004-rynok-ofshornoy-it-razrabotki-v-rossii-i-belarusi-v-2022
 ## (23) Прогнозы неблагодарное дело
 * Пятая часть россиян будет работать удаленно к 2020 году https://www.rbc.ru/technology_and_media/17/06/2015/5580515f9a7947e7bf4bfc99
 )
+
+## () Бонус
+*  CloudNative от Сбера https://developers.sber.ru/portal/products/platform-v/synapse?attempt=1

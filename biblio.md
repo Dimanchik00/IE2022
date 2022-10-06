@@ -61,3 +61,4 @@ https://vc.ru/hr/435004-rynok-ofshornoy-it-razrabotki-v-rossii-i-belarusi-v-2022
 
 ## () Бонус
 *  CloudNative от Сбера https://developers.sber.ru/portal/products/platform-v/synapse?attempt=1
+*  Моя цифробудка - https://t.me/cifrobudka
